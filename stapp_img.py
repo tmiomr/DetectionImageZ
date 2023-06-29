@@ -49,7 +49,6 @@
 
 # ライブラリのインポート
 import streamlit as st
-model = load_model('keras_model.h5')
 from PIL import Image, ImageOps
 import numpy as np
 
